@@ -54,7 +54,7 @@ h5,
 h6 {
   font-family: "Raleway", sans-serif;
 }
-
+ 
 /*--------------------------------------------------------------
 # Preloader
 --------------------------------------------------------------*/
@@ -1254,7 +1254,7 @@ section {
 
 .contact .php-email-form .error-message {
   display: none;
-  color: #fff;
+  color: #0BF024;
   background: #ed3c0d;
   text-align: left;
   padding: 15px;
