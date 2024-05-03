@@ -1254,8 +1254,8 @@ section {
 
 .contact .php-email-form .error-message {
   display: none;
-  color: #0BF024;
-  background: #ed3c0d;
+  color: #000000;
+  background: #0BF024;
   text-align: left;
   padding: 15px;
   font-weight: 600;
